@@ -1,0 +1,7 @@
+// Setup
+const myArray = [];
+for (let a = 1; a < 6; a++) {
+  myArray.push(a);
+}
+
+// Only change code below this line
